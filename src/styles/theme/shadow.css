@@ -1,0 +1,10 @@
+@theme {
+  /* FIXME: there is no override for the default shadow (i.e. shadow) */
+  /*--shadow: var(--shadow-default);*/
+  --shadow-xs: var(--shadow-1);
+  --shadow-sm: var(--shadow-2);
+  --shadow-md: var(--shadow-3);
+  --shadow-lg: var(--shadow-4);
+  --shadow-xl: var(--shadow-5);
+  --shadow-2xl: var(--shadow-6);
+}

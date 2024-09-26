@@ -1,0 +1,86 @@
+@theme {
+  /* base colors */
+  --color-black-a1: var(--black-a1);
+  --color-black-a2: var(--black-a2);
+  --color-black-a3: var(--black-a3);
+  --color-black-a4: var(--black-a4);
+  --color-black-a5: var(--black-a5);
+  --color-black-a6: var(--black-a6);
+  --color-black-a7: var(--black-a7);
+  --color-black-a8: var(--black-a8);
+  --color-black-a9: var(--black-a9);
+  --color-black-a10: var(--black-a10);
+  --color-black-a11: var(--black-a11);
+  --color-black-a12: var(--black-a12);
+  --color-white-a1: var(--white-a1);
+  --color-white-a2: var(--white-a2);
+  --color-white-a3: var(--white-a3);
+  --color-white-a4: var(--white-a4);
+  --color-white-a5: var(--white-a5);
+  --color-white-a6: var(--white-a6);
+  --color-white-a7: var(--white-a7);
+  --color-white-a8: var(--white-a8);
+  --color-white-a9: var(--white-a9);
+  --color-white-a10: var(--white-a10);
+  --color-white-a11: var(--white-a11);
+  --color-white-a12: var(--white-a12);
+
+  /* To change the theme all you have to do is
+   * import the appropriate palette and change the
+   * name of the token in the var() function */
+  /* Color Scheme */
+  --color-gray-1: var(--slate-1);
+  --color-gray-2: var(--slate-2);
+  --color-gray-3: var(--slate-3);
+  --color-gray-4: var(--slate-4);
+  --color-gray-5: var(--slate-5);
+  --color-gray-6: var(--slate-6);
+  --color-gray-7: var(--slate-7);
+  --color-gray-8: var(--slate-8);
+  --color-gray-9: var(--slate-9);
+  --color-gray-10: var(--slate-10);
+  --color-gray-11: var(--slate-11);
+  --color-gray-12: var(--slate-12);
+
+  --color-gray-a1: var(--slate-a1);
+  --color-gray-a2: var(--slate-a2);
+  --color-gray-a3: var(--slate-a3);
+  --color-gray-a4: var(--slate-a4);
+  --color-gray-a5: var(--slate-a5);
+  --color-gray-a6: var(--slate-a6);
+  --color-gray-a7: var(--slate-a7);
+  --color-gray-a8: var(--slate-a8);
+  --color-gray-a9: var(--slate-a9);
+  --color-gray-a10: var(--slate-a10);
+  --color-gray-a11: var(--slate-a11);
+  --color-gray-a12: var(--slate-a12);
+
+  --color-primary-1: var(--indigo-1);
+  --color-primary-2: var(--indigo-2);
+  --color-primary-3: var(--indigo-3);
+  --color-primary-4: var(--indigo-4);
+  --color-primary-5: var(--indigo-5);
+  --color-primary-6: var(--indigo-6);
+  --color-primary-7: var(--indigo-7);
+  --color-primary-8: var(--indigo-8);
+  --color-primary-9: var(--indigo-9);
+  --color-primary-10: var(--indigo-10);
+  --color-primary-11: var(--indigo-11);
+  --color-primary-12: var(--indigo-12);
+
+  --color-primary-a1: var(--indigo-a1);
+  --color-primary-a2: var(--indigo-a2);
+  --color-primary-a3: var(--indigo-a3);
+  --color-primary-a4: var(--indigo-a4);
+  --color-primary-a5: var(--indigo-a5);
+  --color-primary-a6: var(--indigo-a6);
+  --color-primary-a7: var(--indigo-a7);
+  --color-primary-a8: var(--indigo-a8);
+  --color-primary-a9: var(--indigo-a9);
+  --color-primary-a10: var(--indigo-a10);
+  --color-primary-a11: var(--indigo-a11);
+  --color-primary-a12: var(--indigo-a12);
+
+  /* Semantic utilities */
+  --color-base: white;
+}
