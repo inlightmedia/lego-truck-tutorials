@@ -16,8 +16,7 @@ const cardData = [
 function App() {
   return (
     <>
-    
-                <ImageGallery />
+      <ImageGallery />
     </>
   )
 }

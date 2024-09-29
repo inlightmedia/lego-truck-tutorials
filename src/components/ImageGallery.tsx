@@ -136,13 +136,13 @@ const ImageGallery: React.FC = () => {
   return (
     <div className="space-y-8 p-4">
       {/* Row 1: Afterburner images */}
-      <ImageCarousel style={{ maxWidth: '90%' }} photos={images.afterburner} />
+      <ImageCarousel photos={images.afterburner} />
 
       {/* Row 2: Bigfoot20 images */}
-      <ImageCarousel style={{ maxWidth: '90%' }} photos={images.bigfoot20} />
+      <ImageCarousel photos={images.bigfoot20} />
 
       {/* Row 3: Brodozer images */}
-      <ImageCarousel style={{ maxWidth: '90%' }} photos={images.brodozer} />
+      <ImageCarousel photos={images.brodozer} />
     </div>
   );
 };
