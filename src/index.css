@@ -7,6 +7,6 @@
 
 @layer base {
   body {
-    @apply text-gray-12;
+    @apply bg-gray-900 text-gray-100; /* Apply a dark grey background and light grey text for readability */
   }
 }
