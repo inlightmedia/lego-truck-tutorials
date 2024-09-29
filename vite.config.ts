@@ -6,6 +6,7 @@ import path from 'node:path'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  assetsInclude: ['**/*.JPG', '**/*.jpg', '**/*.png', '**/*.gif'], // Add file types to be treated as assets
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
