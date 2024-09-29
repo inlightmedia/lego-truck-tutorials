@@ -5,6 +5,7 @@ import path from 'node:path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: './', // Or '/your-app-name/' if deployed in a subdirectory
   plugins: [react(), tailwindcss()],
   assetsInclude: ['**/*.JPG', '**/*.jpg', '**/*.png', '**/*.gif'], // Add file types to be treated as assets
   resolve: {
